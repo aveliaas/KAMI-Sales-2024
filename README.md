@@ -1,5 +1,5 @@
 # KAMI Sales Recap (2024)
-The dashboard provides an overview of KAYA's sales performance in 2024. It includes analysis of the overall sales and profits, buyer analysis, and product performance. Explore the full interactive dashboard by clicking the image above or [view it here](https://public.tableau.com/views/KAYASalesRecap2024/Dashboard22).
+The dashboard provides an overview of KAMI's sales performance in 2024. It includes analysis of the overall sales and profits, buyer analysis, and product performance. Explore the full interactive dashboard by clicking the image above or [view it here](https://public.tableau.com/views/KAYASalesRecap2024/Dashboard22).
 
 [![Dashboard Preview](https://public.tableau.com/static/images/KA/KAYASalesRecap2024/Dashboard22/1.png)](https://public.tableau.com/views/KAYASalesRecap2024/Dashboard22)
 
@@ -30,16 +30,18 @@ The dashboard provides an overview of KAYA's sales performance in 2024. It inclu
 
 ### Sales Performance 
 - August and December saw the highest sales volumes, with revenue in August reaching Rp842M.
-- Sales declined after August and are comparitively low in the month October and November, where the revenues are below Rp600M.
-- The margin throughout the year are relatively consistent ranging between 20%-23%. 
+- Sales declined after August and were comparatively low in October and November, where the revenues were below Rp600M.
+- The margins throughout the year are relatively consistent, ranging between 20%-23%. 
 
 ### Product Performance 
 - 'HP3 22KG' is the most profitable product with a high margin of 30%.
-- 'Super NB1105 5L' records the highest sales volume although it has a lower margin compared to the other top products (16%).
-- 
+- 'Super NB1105 5L' recorded the highest sales volume, however, it has a lower margin compared to the other top products (16%). 
 
 ### Buyer Analysis
-- 
+- The top four buyers, namely, 'VIP', 'Tbk.M.Ilham', 'VVIP', and 'Tbk.Agus', spend more than the average buyer spending of Rp276M.
+- 'VIP' and 'Tbk.M.Ilham' exceeded the average buyer's spending by 141% and 139%, highlighting their value as key customers
 
 ## Conclusion and Recommendations 
-- Sales in the month Octover and November are likely lower because only 4 types of product was sold each month. Hence, sales around these period can be pushed, by venturing in selling other products in these months. 
+- Sales in the months of October and November are likely lower because only 4 types of products were sold during both months. Hence, sales around these periods can be pushed by venturing into selling more types of products.
+- The products 'HP3 22KG' and 'AZOMITE 20KG-BM' offer high profit margins, presenting a strong opportunity to boost overall profitability by increasing their sales.
+- Incentives such as rewards and discounts can be offered to the top four buyers, as their spending exceeds that of the average customer. 
