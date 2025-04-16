@@ -34,14 +34,14 @@ The dashboard provides an overview of KAMI's sales performance in 2024. It inclu
 - The margins throughout the year are relatively consistent, ranging between 20%-23%. 
 
 ### Product Performance 
-- 'HP3 22KG' is the most profitable product with a high margin of 30%.
-- 'Super NB1105 5L' recorded the highest sales volume, however, it has a lower margin compared to the other top products (16%). 
+- **HP3 22KG** is the most profitable product with a high margin of 30%.
+- **Super NB1105 5L** recorded the highest sales volume, however, it has a lower margin compared to the other top products (16%). 
 
 ### Buyer Analysis
-- The top four buyers, namely, 'VIP', 'Tbk.M.Ilham', 'VVIP', and 'Tbk.Agus', spend more than the average buyer spending of Rp276M.
-- 'VIP' and 'Tbk.M.Ilham' exceeded the average buyer's spending by 141% and 139%, highlighting their value as key customers
+- The top four buyers, namely, **VIP**, **Tbk.M.Ilham**, **VVIP**, and **Tbk.Agus**, spend more than the average buyer spending of Rp276M.
+- **VIP** and **Tbk.M.Ilham** exceeded the average buyer's spending by 141% and 139%, highlighting their value as key customers
 
 ## Conclusion and Recommendations 
 - Sales in the months of October and November are likely lower because only 4 types of products were sold during both months. Hence, sales around these periods can be pushed by venturing into selling more types of products.
-- The products 'HP3 22KG' and 'AZOMITE 20KG-BM' offer high profit margins, presenting a strong opportunity to boost overall profitability by increasing their sales.
+- The products **HP3 22KG** and **AZOMITE 20KG-BM** offer high profit margins, presenting a strong opportunity to boost overall profitability by increasing their sales.
 - Incentives such as rewards and discounts can be offered to the top four buyers, as their spending exceeds that of the average customer. 
