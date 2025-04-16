@@ -31,11 +31,11 @@ The dashboard provides an overview of KAMI's sales performance in 2024. It inclu
 ### Sales Performance 
 - August and December saw the highest sales volumes, with revenue in August reaching Rp842M.
 - Sales declined after August and were comparatively low in October and November, where the revenues were below Rp600M.
-- The margins throughout the year are relatively consistent, ranging between 20%-23%. 
+- The margins throughout the year are relatively consistent, ranging between 17%-19%. 
 
 ### Product Performance 
-- **HP3 22KG** is the most profitable product with a high margin of 30%.
-- **Super NB1105 5L** recorded the highest sales volume, however, it has a lower margin compared to the other top products (16%). 
+- **HP3 22KG** is the most profitable product with a high margin of 23.4%.
+- **Super NB1105 5L** recorded the highest sales volume, however, it has a lower margin compared to the other top products (13.7%). 
 
 ### Buyer Analysis
 - The top four buyers, namely, **VIP**, **Tbk.M.Ilham**, **VVIP**, and **Tbk.Agus**, spend more than the average buyer spending of Rp276M.
