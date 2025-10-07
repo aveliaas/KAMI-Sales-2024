@@ -1,7 +1,7 @@
 # KAMI Sales Recap (2024)
-The dashboard provides an overview of KAMI's sales performance in 2024. It includes analysis of the overall sales and profits, buyer analysis, and product performance. Explore the full interactive dashboard by clicking the image above or [view it here](https://public.tableau.com/views/KAYASalesRecap2024/Dashboard22).
+The dashboard provides an overview of KAMI's sales performance in 2024. It includes analysis of the overall sales and profits, buyer analysis, and product performance. Explore the full interactive dashboard [view it here](https://public.tableau.com/views/KAYASalesRecap2024/Dashboard22).
 
-[![Dashboard Preview](https://public.tableau.com/static/images/KA/KAYASalesRecap2024/Dashboard22/1.png)](https://public.tableau.com/views/KAYASalesRecap2024/Dashboard22)
+<img width="990" height="651" alt="image" src="https://github.com/user-attachments/assets/57a8c9a2-2e0a-4b0f-9ff1-ca57a1986f7f" />
 
 ## Metrics  
 
